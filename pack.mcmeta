@@ -1,6 +1,8 @@
 {
   "pack": {
-    "pack_format": 71,
+    "pack_format": 107,
+    "min_format": 61,
+		"max_format": 107,
     "description": "Disables the vanilla Hard difficulty Leader Zombie health modifier."
   }
 }
